@@ -8,10 +8,11 @@ In this project, ScriptableObjects are used to set up vehicles. The only vehicle
 
 In prefabs/AMCGremlinFast, you can enable IsAI to enable the auto-drive mode. It uses whiskers and a scout to look at the environment to make turning decisions. This technique was discussed in <a href="https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/0367670569">AI for Games by Ian Millington</a>.
 
-The physics for the car in non-AI mode comes from the book Race Car Design by Derek Seward, but some items, such as roll and tilt forces have not been computed, and are instead faked to reduce computational load on the system. If desired, the book's information can be used to implement these functions as well.
+The physics for the car in non-AI mode comes from the book <a href="https://www.amazon.com/Race-Car-Design-Derek-Seward/dp/1137030143"Race Car Design by Derek Seward</a>, but some items, such as roll and tilt forces have not been computed, and are instead faked to reduce computational load on the system. If desired, the book's information can be used to implement these functions as well.
 
 The BogotaMountainScene was created in Blender, and is based on real topographical information from Google for highway 40 from Villavicencio to Bogota. Sections of the track are floating above the surface; this is because the techniques being used to cut the road through the surrounding topography were still being experimented on at the time the included fbx file was exported.
 
 
 I hope the code is of use to you; you may use it in your projects freely.
+
 
