@@ -12,9 +12,10 @@ The physics for the car comes from the book <a href="https://www.amazon.com/Race
 
 The BogotaMountainScene was created in Blender, and is based on real topographical information from Google for highway 40 from Villavicencio to Bogota. Sections of the track are floating above the surface; this is because the techniques being used to cut the road through the surrounding topography were still being experimented on at the time the included fbx file was exported.
 
-
 I hope the code is of use to you; you may use it in your projects freely.
 
+Salman Arif
+salman@studio67.io
 
 
 
